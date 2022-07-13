@@ -1,9 +1,6 @@
 [submodule "MDTVSFA"]
 	path = MDTVSFA
 	url = https://github.com/lidq92/MDTVSFA
-[submodule "SPAQ"]
-	path = SPAQ
-	url = ./SPAQ
 [submodule "koniq"]
 	path = koniq
 	url = https://github.com/ZhengyuZhao/koniq-PyTorch
@@ -13,18 +10,12 @@
 [submodule "Neural-IMage-Assessment"]
 	path = Neural-IMage-Assessment
 	url = https://github.com/yunxiaoshi/Neural-IMage-Assessment
-[submodule "paq2piq"]
-	path = paq2piq
-	url = ./paq2piq
-[submodule ".\\LinearityIQA\\LinearityIQA\\"]
-	path = .\\LinearityIQA\\LinearityIQA\\
-	url = https://github.com/lidq92/LinearityIQA
-[submodule ".\\MDTVSFA"]
-	path = .\\MDTVSFA
-	url = https://github.com/lidq92/MDTVSFA
-[submodule "./SPAQ"]
+[submodule "SPAQ"]
+    path = SPAQ
 	url = https://github.com/h4nwei/SPAQ
 [submodule ".\\LinearityIQA\\LinearityIQA"]
+    path = .\\LinearityIQA\\LinearityIQA\\
 	url = https://github.com/lidq92/LinearityIQA
-[submodule ".\\paq2piq\\"]
+[submodule "paq2piq"]
+    path = paq2piq
 	url = https://github.com/baidut/PaQ-2-PiQ
