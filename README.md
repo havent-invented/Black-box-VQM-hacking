@@ -32,7 +32,7 @@ Video quality measurement plays a critical role in the development of video proc
 - **VMAF NEG scores** can be increased by up to **21.9%** through certain preprocessing techniques.
 - Subjective evaluations indicate that higher VMAF scores do not necessarily correspond to better visual quality.
 
-### Comparison of Frames with CLAHE Preprocessing
+### Comparison of Frames for VMAF increase with CLAHE Preprocessing
 
 Comparison of frames from original videos (top) and videos preprocessed using the CLAHE method (bottom). VMAF increased by **181.22%** for the video at left, by **147.30%** for the one in the middle, and by **114.75%** for the one on the right.
 
