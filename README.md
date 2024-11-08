@@ -24,7 +24,7 @@
 
 ## Abstract
 
-Video quality measurement plays a critical role in the development of video processing applications. In this paper, we show how popular quality metrics VMAF and its tuning-resistant version VMAF NEG can be artificially increased by video preprocessing. We propose a pipeline for tuning parameters of processing algorithms which allows to increase VMAF by up to 218.8%. A subjective comparison of preprocessed videos showed that with the majority of methods visual quality drops down or stays unchanged. We show that VMAF NEG scores can also be increased by some preprocessing methods by up to 21.9%.
+Video-quality measurement plays a critical role in the development of video-processing applications. In this paper, we show how video preprocessing can artificially increase the popular quality metric **VMAF** and its tuning-resistant version, VMAF NEG. We propose a pipeline that tunes processing-algorithm parameters to increase VMAF by up to **218.8%**. A subjective comparison revealed that for most preprocessing methods, a video's visual quality drops or stays unchanged. We also show that some preprocessing methods can increase **VMAF NEG** scores by up to **23.6%**.
 
 ## Key Findings
 
